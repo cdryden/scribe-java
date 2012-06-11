@@ -1,4 +1,4 @@
-h2. Scribe Java with Layer 7 OAuth Toolkit^TM API support
+h2. Scribe Java with Layer 7 OAuth Toolkit API support
 
 !http://www.layer7tech.com/sites/all/themes/Layer7/logo.png!
 "Layer 7 OAuth Toolkit":http://www.layer7tech.com/products/oauth-toolkit
